@@ -1,4 +1,4 @@
-//author: ABDUL MAJId KHAN
+//author: ABDUL MAJID KHAN
 //github: github.com/khanabdulmajid
 
 // Kth Smallest Element
